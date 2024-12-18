@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(images/dxcservice.jpg);
+        background-image: url(https://raw.githubusercontent.com/troyaaron03/DXC-Tech/main/dxcservice.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
